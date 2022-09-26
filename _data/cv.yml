@@ -2,96 +2,78 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
+      value: Ilkcan Keles
     - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+      value: 29/09/1988
 
 - title: Education
   type: time_table
   contents:
     - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+      institution: Dept. of Computer Science, University of Aalborg, Aalborg, Denmark
+      year: 2018
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Thesis: Spatial Keyword Querying: Ranking Evaluation and Efficient Query Processing - <a href=\"https://vbn.aau.dk/ws/portalfiles/portal/282634483/PHD_Ilkcan_Keles_E_pdf.pdf\">PDF</a>"
+    - title: MSc
+      institution: Dept. of Computer Engineering, Middle East Technical University, Ankara, Turkey
+      year: 2014
       description:
-        - Description 1.
-        - Description 2.
+        - "Thesis: Methods for Location Prediction of Mobile Phone Users - <a href=\"http://etd.lib.metu.edu.tr/upload/12617462/index.pdf\">PDF</a>"
+    - title: BS
+      institution: Dept. of Computer Engineering, Middle East Technical University, Ankara, Turkey
+      year: 2011
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
-      description:
-        - Description 1.
-        - Description 2.
+    - title: Expert Software Engineer
+      institution: TomTom
+      year: Sep. 2021 - Now
+      
+    - title: Expert Software Engineer
+      institution: Turkcell
+      year: Mar. 2020 - Aug. 2021
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Assistant Professor
+      institution: Dept. of Computer Science, University of Aalborg, Aalborg, Denmark
+      year: Aug. 2019 - Jan. 2020
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
+    - title: Postdoctoral Researcher
+      institution: Dept. of Computer Science, University of Aalborg, Aalborg, Denmark
+      year: Apr. 2018 - Jul. 2019
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: PhD Student
+      institution: Dept. of Computer Science, University of Aalborg, Aalborg, Denmark
+      year: Oct. 2014 - May 2018
 
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Research Assistant
+      institution: Dept. of Computer Engineering, Middle East Technical University, Ankara, Turkey
+      year: Nov. 2011 - Aug. 2014
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Professional Activities
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Program Committees.
       items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - <a href="https://iswc2022.semanticweb.org/">ISWC 2022</a>
+        - <a href="http://ssdbm2018.inf.unibz.it/index.html">ECML PKDD 2022 (Demo Track)</a>
+        - <a href="https://iswc2021.semanticweb.org/">ISWC 2021</a>
+        - <a href="http://ssdbm2018.inf.unibz.it/index.html">SSDBM 2018</a>
+    - title: Journal Reviewer.
       items:
-        - Description 1.
-        - Description 2.
+        - <a href="https://www.springer.com/computer/ai/journal/354">New Generation Computing</a>
+    - title: External Reviewer.
+      items: 
+        - <a href="http://iswc2019.semanticweb.org/">ISWC 2019</a>
+        - <a href="http://edbticdt2019.inesc-id.pt/">EDBT 2019</a>
+        - <a href="http://www.dbs.ifi.lmu.de/georich16/">GeoRich 2016</a>
 
-- title: Other Interests
+- title: Academic Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - Information Retrieval
+    - Databases
+    - Knowledge Graphs
+    - Data Mining
+    - Spatial Keyword Search
+    - Spatio-Temporal Data Analysis

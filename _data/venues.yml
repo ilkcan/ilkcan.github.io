@@ -1,6 +1,14 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
+"TKDE":
+  url: https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=69
   color: "#00369f"
 
-"PhysRev":
-  url: https://journals.aps.org/
+"ComJnl":
+  url: https://academic.oup.com/comjnl
+  color: "#00369f"
+
+"Conference":
+  color: "#7f2908"
+
+"arXiv":
+  url: https://arxiv.org/
+  color: "#f88e36"
